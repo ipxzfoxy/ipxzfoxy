@@ -1,12 +1,35 @@
 # 👋 Hi there
 
-I'm xFoxyyy (Victor), a **Software Developer**, with experience in Node.js, TypeScript and Lua.
-Currently, i am studying C++ and Go, while deepening my knowledge with **Deno**.
+I'm xFoxyyy (Victor), a **Software Developer**, with experience in Node.js, TypeScript and Lua.  
+Currently, I am studying C++ and Go, while deepening my knowledge with **Deno**.
 
-I'm a creator and maintainer of the framework [Disfox JS](https://www.npmjs.com/package/disfox?activeTab=readme).
+I'm the creator and maintainer of the framework [Disfox JS](https://www.npmjs.com/package/disfox?activeTab=readme).
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="33"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain.svg" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="32"/>
+</p>
 
-<a href="https://beacons.ai/victorbotelho">
-  <img src="https://img.shields.io/badge/Beacons-victorbotelho-000?style=for-the-badge&logo=linktree&logoColor=white"/>
-</a>
+---
+
+#### More:
+
+<p>
+  <a href="https://disfox.netlify.app">
+    <img src="https://cdn.jsdelivr.net/gh/DisfoxJS/Disfox-assets/blank-dfx-ico.svg" height="28"/>
+  </a>
+  &nbsp;
+
+  <a href="https://www.npmjs.com/~xfoxyyy0">
+    <img src="https://cdn.simpleicons.org/npm/white" height="28"/>
+  </a>
+  &nbsp;
+
+  <a href="https://github.com/ipxzfoxy">
+    <img src="https://cdn.simpleicons.org/github/white" height="28"/>
+  </a>
+</p>
