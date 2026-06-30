@@ -1,3 +1,5 @@
+<div align="center">
+
 # 👋 Hi there
 
 I'm xFoxyyy (Victor), a **Software Developer**, with experience in Node.js, TypeScript and Lua.  
@@ -7,11 +9,13 @@ I'm the creator and maintainer of the framework [Disfox JS](https://www.npmjs.co
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="32"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32"/>
+  <img src="https://cdn.simpleicons.org/luau/white" height="32"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain.svg" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original.svg" height="32"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="32"/>
 </p>
 
 ---
@@ -33,3 +37,5 @@ I'm the creator and maintainer of the framework [Disfox JS](https://www.npmjs.co
     <img src="https://cdn.simpleicons.org/github/white" height="28"/>
   </a>
 </p>
+
+</div>
