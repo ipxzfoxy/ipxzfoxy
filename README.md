@@ -13,9 +13,6 @@ I'm the creator and maintainer of the framework [Disfox JS](https://www.npmjs.co
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="42"/>
   <img src="https://luau.org/_astro/luau-logo.DU3ngeWd.svg" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain.svg" height="42"/>
-  <img src="https://cdn.simpleicons.org/deno/white" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="42"/>
 </p>
 
 ---
@@ -37,5 +34,7 @@ I'm the creator and maintainer of the framework [Disfox JS](https://www.npmjs.co
     <img src="https://cdn.simpleicons.org/github/white" height="34"/>
   </a>
 </p>
+
+Victor Botelho Anunciação
 
 </div>
