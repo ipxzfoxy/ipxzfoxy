@@ -5,10 +5,14 @@
 I'm xFoxyyy (Victor), a **Software Developer**, with experience in Node.js, TypeScript and Lua.  
 Currently, I am studying C++ and Go, while deepening my knowledge with **Deno**.
 
+--- 
+
 About Disfox
+
 [Disfox JS](https://www.npmjs.com/package/disfox?activeTab=readme).
 
 ProtoIndigo & BreVM
+
 [ProtoIndigo Repository](https://github.com/ipxzfoxy/protoindigo).
 
 <p>
