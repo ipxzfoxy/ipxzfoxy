@@ -2,13 +2,20 @@
 
 # 👋 Hi there
 
-I'm xFoxyyy (Victor), a **Software Developer**, with experience in Node.js, TypeScript and Lua.  
-Currently, I am studying C++ and Go, while deepening my knowledge with **Deno**.
+I'm xFoxyyy (Victor), a Software Developer focused on understanding technology deeply and building my own solutions from the ground up. I have experience with Node.js, TypeScript, C++, and Lua.
+
+Currently working on:
+
+Disfox JS — A JavaScript framework focused on building efficient applications.
+
+ProtoIndigo — A programming language and runtime project exploring compiler and virtual machine development.
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="55"/>
 </p>
+
+
 
 ---
 
@@ -19,6 +26,8 @@ Currently, I am studying C++ and Go, while deepening my knowledge with **Deno**.
 ### ProtoIndigo & BreVM
 
 [ProtoIndigo Repository](https://github.com/ipxzfoxy/protoindigo).
+
+<img style="width: 150px;" src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png"></img>
 
 ---
 
