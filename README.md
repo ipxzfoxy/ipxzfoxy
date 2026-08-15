@@ -2,7 +2,7 @@
 
 # 👋 Hi there
 
-I'm xFoxyyy (Victor), a Software Developer focused on understanding technology deeply and building my own solutions from the ground up. I have experience with Node.js, TypeScript, C++, and Lua.
+I'm xFoxyyy (Victor), a Software Developer focused on understanding how technology works under the hood and creating my own solutions.
 
 Currently working on:
 
@@ -14,8 +14,6 @@ ProtoIndigo — A programming language and runtime project exploring compiler an
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="55"/>
 </p>
-
-
 
 ---
 
@@ -34,7 +32,7 @@ ProtoIndigo — A programming language and runtime project exploring compiler an
 #### More:
 
 <p>
-  <a href="https://disfox.netlify.app">
+  <a href="https://disfox.js.org">
     <img src="https://cdn.jsdelivr.net/gh/DisfoxJS/Disfox-assets/blank-dfx-ico.svg" height="34"/>
   </a>
   &nbsp;
